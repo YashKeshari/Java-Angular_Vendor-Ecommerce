@@ -1,6 +1,8 @@
 # Java-Angular_Vendor-Ecommerce
 
 Problem statement 
+
+
 XYZ company provides the E-comm platform to local vendors to take their business online. 
 Local Vendor
 
